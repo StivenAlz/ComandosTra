@@ -1,0 +1,14 @@
+Clonar el repositorio hacia EC2 
+
+git clone https://github.com/StivenAlz/AppExercises2.git
+
+Para no eliminar y clonar de nuevo el repositorio dentro de mi EC2 
+
+--verificar
+git fetch origin
+git status 
+git restore build.sh
+
+Permisos al archivo de ejecucion 
+
+chmod 755 build.sh
