@@ -12,3 +12,9 @@ git restore build.sh
 Permisos al archivo de ejecucion 
 
 chmod 755 build.sh
+
+publicacion 
+
+./build.sh
+
+git init 
