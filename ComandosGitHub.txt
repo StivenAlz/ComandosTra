@@ -18,3 +18,4 @@ publicacion
 ./build.sh
 
 git init 
+git add .
